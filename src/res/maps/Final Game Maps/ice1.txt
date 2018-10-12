@@ -1,0 +1,14 @@
+bc  bc  bc  bc  bc  bc  bc  bc  bc  bc  bc  bc  bc  bc  bc  bc  bc  bc  bc  bc  bc  bc  bc  bc  bc  
+w1  w1  w1  w1  w1  w1  w1  w1  w1  w1  w1  w1  w1  w1  w1  w1  w1  w1  w1  w1  w1  w1  w1  w1  bc  
+w1  w1  w1  w1  w1  w1  w1  w1  w1  w1  w1  w1  w1  w1  w1  w1  w1  w1  w1  w1  w1  w1  w1  w1  bc  
+w1  w1  w1  w1  w1  w1  w1  w1  w1  w1  w1  w1  e   e   w1  w1  w1  w1  w1  w1  w1  w1  w1  w1  bc  
+w1  w1  w1  w1  w1  w1  w1  w1  w1  w1  w1  w1  e   e   w1  w1  w1  w1  w1  w1  w1  w1  w1  w1  bc  
+w1  w1  w1  w1  w1  w1  w1  w1  w1  w1  w1  w1  e   e   w1  w1  w1  w1  w1  w1  w1  w1  w1  w1  bc  
+bc  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  bc  
+bc  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  bc  
+bc  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  bc  
+bc  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  bc  
+bc  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  bc  
+bc  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  bc  
+bc  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  sn  bc  
+bc  bc  bc  bc  bc  bc  bc  bc  bc  bc  bc  bc  sn  sn  bc  bc  bc  bc  bc  bc  bc  bc  bc  bc  bc  

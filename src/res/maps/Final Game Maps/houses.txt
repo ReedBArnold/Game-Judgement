@@ -1,0 +1,10 @@
+hw  hw  hw  hw  hw  hw  hw  hw  hw  hw  
+hw  hw  hw  hw  hw  hw  hw  hw  hw  hw 
+hw  hw  hf  hf  hf  hf  hf  hf  hw  hw 
+hw  hw  hf  hf  hf  hf  hf  hf  hw  hw  
+hw  hw  hf  hf  hf  hf  hf  hf  hw  hw 
+hw  hw  hf  hf  hf  hf  hf  hf  hw  hw  
+hw  hw  hf  hf  hf  hf  hf  hf  hw  hw  
+hw  hw  hf  hf  hf  hf  hf  hf  hw  hw  	
+hw  hw  hw  hw  hf  hf  hw  hw  hw  hw 
+hw  hw  hw  hw  hf  hf  hw  hw  hw  hw 

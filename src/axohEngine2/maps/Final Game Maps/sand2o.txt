@@ -1,0 +1,14 @@
+bs  bs  bs  bs  bs  bs  bs  bs  bs  bs  bs  bs  bs  bs  bs  bs  bs  bs  bs  bs  bs  bs  bs  bs  bs  
+bs  bs  bs  bs  bs  bs  bs  bs  bs  bs  e   bs  bs  bs  bs  bs  bs  bs  bs  bs  bs  bs  bs  bs  bs  
+bs  bs  e   e   e   e   e   e   e   e   e   n1  n2  n3  n4  e   e   e   e   e   e   e   e   bs  bs  
+bs  bs  e   e   e   e   e   e   e   e   e   e   e   e   e   e   e   e   e   e   e   e   e   bs  bs  
+bs  bs  e   e   e   e   e   e   e   e   e   e   e   e   e   e   e   e   e   e   e   e   e   bs  bs  
+bs  bs  e   e   e   e   e   e   e   e   e   e   e   e   e   e   e   e   e   e   e   e   e   bs  bs  
+bs  bs  e   e   e   e   e   e   e   e   e   e   e   e   e   e   e   e   e   e   e   e   e   bs  bs  
+bs  bs  e   e   e   e   e   e   e   e   e   e   e   e   e   e   e   e   e   e   e   e   e   bs  bs  
+bs  bs  e   e   e   e   e   e   e   e   e   e   e   e   e   e   e   e   e   e   e   e   e   bs  bs  
+bs  bs  e   e   e   e   e   e   e   e   e   e   e   e   e   e   e   e   e   e   e   e   e   bs  bs  
+bs  bs  e   e   e   e   e   e   e   e   e   e   e   e   e   e   e   e   e   e   e   e   e   bs  bs  
+bs  bs  e   e   e   e   e   e   e   e   e   e   e   e   e   e   e   e   e   e   e   e   e   bs  bs  
+bs  bs  bs  bs  bs  bs  bs  bs  bs  bs  bs  bs  e   e   bs  bs  bs  bs  bs  bs  bs  bs  bs  bs  bs  
+bs  bs  bs  bs  bs  bs  bs  bs  bs  bs  bs  bs  e   e   bs  bs  bs  bs  bs  bs  bs  bs  bs  bs  bs  
